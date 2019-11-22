@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 import javax.swing.plaf.synth.SynthSeparatorUI; 
-public class Ex4{
+public class Main{
     public static boolean[][] tab;
     public static int n;
     public static int q;

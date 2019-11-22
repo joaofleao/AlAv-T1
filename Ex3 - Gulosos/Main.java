@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Ex3 {
+public class Main {
     public static void main (String args[]) {
         System.out.println("Gulosos");
         int[] s = {2, 4, 1, 6, 4, 6,  7,  9, 9,  3,  13};
